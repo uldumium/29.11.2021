@@ -8,7 +8,5 @@ int main()
 	a = a.sum(b);
 
 	auto c = a + b;
-	
-	d
 
 }
